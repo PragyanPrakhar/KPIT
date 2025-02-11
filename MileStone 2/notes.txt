@@ -1,0 +1,35 @@
+-> Application :-> It is a program designed for a specific purpose which is used by the end customers 
+ and it does not require developer knowledge to use.
+-> Libraties :->  Software design for other developers to use and make new products based on the library.
+    1) opencsv libraries:-> Developers can use this library to make csv reading software.
+-> Framework :->  It is a set of pre-written code that can be used to build applications.
+
+=> Example -> we want to make simple calculator.
+>> Java version 8 -> Functional Programming
+void performOperation(data , logic){
+    logic(data);
+}
+performOperation(10,square_Of_Number); //100
+performOperation(10,cube_Of_Number);   //1000
+
+
+>> Study About Functinal Interfaces.
+>> Predicate is a type that takes one input and return true or false as output.
+>> Functional Programming 
+   -> Focus on using functions as objects.
+
+>> Java 8 and above have many features for this 
+   a) Functional Interfaces(9 built-in types) and @FunctionalInterface to make more efficient.
+   b)lambda objects 
+     >> Function<Integer,Integer> fn=x->x+10;
+
+   c)functional composition:
+     actions on output from previous step /chained function where each function 
+    filter----> map-->sum()
+    
+    stream API of java has features to write composed functions
+    >> filter()-->map()-->sum() 
+    map:take a logic(written as lambda object / expressions and "apply" on data)
+    
+
+     
