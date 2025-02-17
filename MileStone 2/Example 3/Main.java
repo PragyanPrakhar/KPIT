@@ -1,3 +1,5 @@
+import java.util.function.*;
+
 public class Main {
     public static void main(String[] args) {
         Runnable task = () -> System.out.println("Hello from another thread !!");
@@ -9,3 +11,4 @@ public class Main {
         System.out.println(function.apply(names[0]));
     }
 }
+// What will be the output of the above code?

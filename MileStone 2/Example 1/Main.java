@@ -5,7 +5,8 @@ interface MathOperation {
 
 public class Main {
     public static void main(String[] args) {
-        // addtion subtraction multiplication division are objects and their data type are objects.
+        // addtion subtraction multiplication division are objects and their data type
+        // are objects.
         MathOperation add = (a, b) -> a + b;
         MathOperation subtract = (a, b) -> a - b;
         MathOperation multiply = (a, b) -> a * b;
