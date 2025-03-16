@@ -1,0 +1,29 @@
+data structures while creating software using API.
+Collections API [Collcetions Framework of Java]
+[Selecting the correct Collection based on the Problem]
+
+Data-> It is raw bytes which can be meaningfully interpreted to get the information.
+
+{How to convert the different types of data and store them into the require format
+like in the company we won't be able to get the text type data only, we will be getting different forms of the data therefore we need to know how to convert them into the require format and and store them into the optimal data structure.}
+
+Data Structures-> It is a way to organize data in a computer so that it can be stored.
+
+QUES ->  Difference between ArrayList and Vector in Java
+Ans-> {ArrayList}=> An ArrayList is a resizable array that is a part of the java.util.package, and it is used to implement a list interface. As it helps create a dynamic array, the size is not required to be specified during creation. 
+
+As we add or remove elements from ArrayList, the size of ArrayList changes accordingly. 
+
+If the number of elements extends the capacity of ArrayList, the new size of ArrayList will increase by 50% of the present array size.ArrayList is unsynchronized in nature. ArrayList allows multiple threads to work at the same time. Thus if a thread performs a task, the other thread doesn't need to wait to complete that task.
+
+{Vector}=> Vectors are very similar to ArrayList. Both use dynamically resizable arrays internally, and both implement the list interface. Vector has some legacy methods that are not present in the collection framework. One significant difference between ArrayList and Vector in Java is if the elements inside the vector exceed its capacity, the vector increments the size by 100%, doubling the array's size.Another difference between ArrayList and Vector is the vector is synchronized in nature. Multiple threads cannot work on vectors at the same time. Therefore if a thread is performing a task, the other thread has to wait to complete that task.
+
+
+UML Diagrams  
+
+Do's and Dont's
+
+-> Dont's
+1) Do not memorize the classes and the available methods
+2) Solving multiple problems based on the popular data structure  without understanding.
+3)   
