@@ -1,0 +1,6 @@
+com\example\utils\HibernateUtil.class
+com\example\models\Post.class
+com\example\UserDAO.class
+com\example\App.class
+com\example\models\User.class
+com\example\PostDAO.class
