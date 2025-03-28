@@ -1,0 +1,5 @@
+com\example\util\HibernateUtil.class
+com\example\AuthorService.class
+com\example\App.class
+com\example\model\Author.class
+com\example\model\Book.class
