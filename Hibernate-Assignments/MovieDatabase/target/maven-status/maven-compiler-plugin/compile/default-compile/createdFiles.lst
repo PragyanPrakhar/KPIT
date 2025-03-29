@@ -1,0 +1,6 @@
+com\example\utils\HibernateUtil.class
+com\example\App.class
+com\example\dao\GenreDAO.class
+com\example\dao\MovieDAO.class
+com\example\models\Genre.class
+com\example\models\Movie.class
