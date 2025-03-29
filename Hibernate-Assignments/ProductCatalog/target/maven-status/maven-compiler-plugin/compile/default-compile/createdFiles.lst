@@ -1,0 +1,5 @@
+com\example\dao\ProductDAO.class
+com\example\models\Product.class
+com\example\utils\HibernateUtil.class
+com\example\App.class
+com\example\models\Category.class
