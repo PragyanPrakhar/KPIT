@@ -1,0 +1,4 @@
+com\example\utils\HibernateUtil.class
+com\example\models\Contact.class
+com\example\App.class
+com\example\models\PhoneNumber.class
