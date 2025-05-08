@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+    background-color: #eef;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+textarea {
+    width: 300px;
+    height: 100px;
+    padding: 10px;
+}

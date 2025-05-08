@@ -1,0 +1,12 @@
+body {
+    background-color: #000;
+    color: lime;
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.clock-container h2 {
+    font-size: 48px;
+}

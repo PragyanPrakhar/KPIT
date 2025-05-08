@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #eee;
+}
+.slider {
+    text-align: center;
+}
+img {
+    width: 400px;
+    height: 200px;
+    margin-bottom: 10px;
+}

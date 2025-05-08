@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    background: #eef;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.form-container {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #999;
+    text-align: center;
+}
+input {
+    display: block;
+    width: 250px;
+    margin: 10px auto;
+    padding: 10px;
+}
+button {
+    padding: 10px 20px;
+}

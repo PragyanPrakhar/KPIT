@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Form Validation</title>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <div class="form-container">
+            <h2>Registration Form</h2>
+            <form id="myForm">
+                <input type="text" id="name" placeholder="Name" required />
+                <input
+                    type="text"
+                    id="phone"
+                    placeholder="Phone Number"
+                    required
+                />
+                <input type="email" id="email" placeholder="Email" required />
+                <button type="submit">Submit</button>
+            </form>
+            <p id="msg"></p>
+        </div>
+        <script src="script.js"></script>
+    </body>
+</html>
