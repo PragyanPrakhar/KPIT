@@ -1,0 +1,5 @@
+1. The getEmployeesByAge method is not correctly filtering employees based on the given age.
+2. The increaseSalary method is not handling the case where the salary increase percentage is negative.
+3. The printEmployees method is not handling the case where the list of employees is null.
+4. The EmployeeService class is not handling the case where an employee with the same name already exists.
+5. The Main class is not handling the case where the employee service is null.

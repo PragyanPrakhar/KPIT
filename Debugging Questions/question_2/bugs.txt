@@ -1,0 +1,4 @@
+1. The getDepartment method in the University class may return null if the department is not found. This could lead to a NullPointerException if the returned department is used without checking for null.
+2. The addCourse method in the Department class does not check if the course already exists in the department. This could lead to duplicate courses in the department.
+3. The printCourses method in the Student class does not handle the case where the student has no courses.
+4. The getCourseName and getCourseCredits functions in the Course class are not used correctly in the Main class.

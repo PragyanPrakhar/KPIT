@@ -1,0 +1,6 @@
+1. The withdraw method in the Account class allows for negative account balances to occur under certain conditions.
+
+
+2. The printAccountTransactions method in the BankingSystem class throws a NullPointerException when attempting to print transactions for some accountIds which is not expected since exception handling was assumed
+
+3. The account1 and account2 objects in the Main class may exhibit inconsistent behavior when accessed concurrently, potentially resulting in incorrect account balances.

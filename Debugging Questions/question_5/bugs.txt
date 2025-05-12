@@ -1,0 +1,3 @@
+1. The calculateTotal method in the Order class may produce unexpected results when calculating the total cost of an order.
+2. The calculateTotalSpent method in the Customer class may not provide accurate results for customers with no purchase history.
+3. The Product class lacks a feature to modify the quantity of a product, which could lead to inconsistencies in inventory management.
