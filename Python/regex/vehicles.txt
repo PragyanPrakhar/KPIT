@@ -1,0 +1,5 @@
+V001, Sedan, Toyota, 2020, 50000, True
+V002, SUV, Honda, 2022, 25000, True
+V003, Truck, Ford, 2018, 80000, False
+V004, Sedan, Toyota, 2021, 30000, True
+V005, SUV, Jeep, 2023, 10000, True

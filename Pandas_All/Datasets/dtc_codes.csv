@@ -1,0 +1,2026 @@
+timestamp,vehicle_id,dtc_code,description,severity
+2025-10-01 08:00:00,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:00:02,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:00:08,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:00:14,VEH003,P0171,System Too Lean,Medium
+2025-10-01 08:00:16,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:00:38,VEH002,P0171,System Too Lean,Medium
+2025-10-01 08:00:47,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:00:55,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:01:00,VEH004,P0171,System Too Lean,Medium
+2025-10-01 08:01:02,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:01:04,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:01:12,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:01:23,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:01:27,VEH002,P0171,System Too Lean,Medium
+2025-10-01 08:01:52,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:01:54,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:01:58,VEH002,P0171,System Too Lean,Medium
+2025-10-01 08:02:02,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:02:31,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:02:34,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:02:39,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:03:03,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:03:10,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:03:11,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:03:18,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:03:24,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:03:31,VEH001,P0171,System Too Lean,Medium
+2025-10-01 08:03:32,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:03:34,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:03:52,VEH001,P0171,System Too Lean,Medium
+2025-10-01 08:04:03,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:04:15,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:04:21,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:04:43,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:04:54,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:04:57,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:05:00,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:05:25,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:05:27,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:05:35,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:05:48,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:06:15,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:06:35,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:06:39,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:06:42,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:06:47,VEH004,P0171,System Too Lean,Medium
+2025-10-01 08:07:05,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:07:07,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:07:08,VEH002,P0171,System Too Lean,Medium
+2025-10-01 08:07:10,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:07:11,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:07:31,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:07:35,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:07:45,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:07:56,VEH001,P0171,System Too Lean,Medium
+2025-10-01 08:07:59,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:08:01,VEH002,P0171,System Too Lean,Medium
+2025-10-01 08:08:06,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:08:09,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:08:18,VEH003,P0171,System Too Lean,Medium
+2025-10-01 08:08:19,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:08:31,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:08:39,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:08:41,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:08:42,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:08:45,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:08:46,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:08:54,VEH004,P0171,System Too Lean,Medium
+2025-10-01 08:08:57,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:09:01,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:09:09,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:09:12,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:09:28,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:09:34,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:09:53,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:09:54,VEH002,P0171,System Too Lean,Medium
+2025-10-01 08:09:55,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:09:59,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:10:12,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:10:30,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:10:34,VEH001,P0171,System Too Lean,Medium
+2025-10-01 08:10:40,VEH003,P0171,System Too Lean,Medium
+2025-10-01 08:10:49,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:10:54,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:11:06,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:11:17,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:11:20,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:11:25,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:11:29,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:11:33,VEH004,P0171,System Too Lean,Medium
+2025-10-01 08:11:36,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:11:56,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:12:06,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:12:07,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:12:14,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:12:16,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:12:36,VEH003,P0171,System Too Lean,Medium
+2025-10-01 08:12:41,VEH003,P0171,System Too Lean,Medium
+2025-10-01 08:12:42,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:12:44,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:13:02,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:13:36,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:13:38,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:13:46,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:13:54,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:14:00,VEH003,P0171,System Too Lean,Medium
+2025-10-01 08:14:08,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:14:11,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:14:37,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:14:44,VEH003,P0171,System Too Lean,Medium
+2025-10-01 08:14:46,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:14:53,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:15:05,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:15:07,VEH004,P0171,System Too Lean,Medium
+2025-10-01 08:15:13,VEH001,P0171,System Too Lean,Medium
+2025-10-01 08:15:21,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:15:36,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:15:50,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:16:04,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:16:08,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:16:10,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:16:11,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:16:19,VEH002,P0171,System Too Lean,Medium
+2025-10-01 08:16:33,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:16:37,VEH004,P0171,System Too Lean,Medium
+2025-10-01 08:16:39,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:16:41,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:18:25,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:18:32,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:18:49,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:18:53,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:19:00,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:19:14,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:19:20,VEH003,P0171,System Too Lean,Medium
+2025-10-01 08:19:30,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:19:46,VEH002,P0171,System Too Lean,Medium
+2025-10-01 08:19:55,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:20:01,VEH004,P0171,System Too Lean,Medium
+2025-10-01 08:20:21,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:20:37,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:20:42,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:20:44,VEH001,P0171,System Too Lean,Medium
+2025-10-01 08:20:59,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:21:08,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:21:29,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:21:32,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:21:39,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:21:49,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:21:54,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:22:04,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:22:09,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:22:14,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:22:40,VEH002,P0171,System Too Lean,Medium
+2025-10-01 08:22:45,VEH002,P0171,System Too Lean,Medium
+2025-10-01 08:23:10,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:23:17,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:23:19,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:23:26,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:23:29,VEH003,P0171,System Too Lean,Medium
+2025-10-01 08:23:31,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:23:55,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:23:59,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:24:03,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:24:04,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:24:06,VEH004,P0171,System Too Lean,Medium
+2025-10-01 08:24:17,VEH001,P0171,System Too Lean,Medium
+2025-10-01 08:24:25,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:24:43,VEH001,P0171,System Too Lean,Medium
+2025-10-01 08:24:55,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:25:06,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:25:31,VEH002,P0171,System Too Lean,Medium
+2025-10-01 08:25:41,VEH001,P0171,System Too Lean,Medium
+2025-10-01 08:26:11,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:26:30,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:26:38,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:26:56,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:27:04,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:27:06,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:27:24,VEH001,P0171,System Too Lean,Medium
+2025-10-01 08:27:25,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:27:35,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:27:38,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:27:51,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:27:53,VEH002,P0171,System Too Lean,Medium
+2025-10-01 08:27:54,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:27:56,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:27:57,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:28:02,VEH003,P0171,System Too Lean,Medium
+2025-10-01 08:28:05,VEH004,P0171,System Too Lean,Medium
+2025-10-01 08:28:15,VEH004,P0171,System Too Lean,Medium
+2025-10-01 08:28:20,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:28:22,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:28:23,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:28:27,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:28:39,VEH002,P0171,System Too Lean,Medium
+2025-10-01 08:28:50,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:28:56,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:29:06,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:29:16,VEH004,P0171,System Too Lean,Medium
+2025-10-01 08:29:27,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:29:44,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:29:54,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:30:13,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:30:42,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:30:49,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:30:52,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:30:55,VEH004,P0171,System Too Lean,Medium
+2025-10-01 08:30:57,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:31:23,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:31:24,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:31:27,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:31:45,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:31:47,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:32:16,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:32:19,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:32:35,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:32:43,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:32:50,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:32:58,VEH002,P0171,System Too Lean,Medium
+2025-10-01 08:33:11,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:33:19,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:33:36,VEH001,P0171,System Too Lean,Medium
+2025-10-01 08:33:38,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:33:47,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:33:51,VEH001,P0171,System Too Lean,Medium
+2025-10-01 08:33:52,VEH002,P0171,System Too Lean,Medium
+2025-10-01 08:33:54,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:34:00,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:34:22,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:34:23,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:34:35,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:34:51,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:34:52,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:35:16,VEH002,P0171,System Too Lean,Medium
+2025-10-01 08:35:29,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:35:31,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:35:40,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:35:45,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:35:53,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:36:16,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:36:18,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:36:19,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:36:34,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:36:37,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:36:48,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:36:50,VEH004,P0171,System Too Lean,Medium
+2025-10-01 08:37:05,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:37:10,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:37:17,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:37:22,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:37:41,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:37:50,VEH001,P0171,System Too Lean,Medium
+2025-10-01 08:38:12,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:38:36,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:38:43,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:38:45,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:38:47,VEH003,P0171,System Too Lean,Medium
+2025-10-01 08:39:10,VEH003,P0171,System Too Lean,Medium
+2025-10-01 08:39:11,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:39:13,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:39:16,VEH003,P0171,System Too Lean,Medium
+2025-10-01 08:39:23,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:39:31,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:39:51,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:39:54,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:40:06,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:40:12,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:40:20,VEH004,P0171,System Too Lean,Medium
+2025-10-01 08:40:29,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:40:33,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:40:35,VEH002,P0171,System Too Lean,Medium
+2025-10-01 08:40:44,VEH002,P0171,System Too Lean,Medium
+2025-10-01 08:40:49,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:40:52,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:40:56,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:41:02,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:41:23,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:41:29,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:41:31,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:41:35,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:41:36,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:41:42,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:41:53,VEH004,P0171,System Too Lean,Medium
+2025-10-01 08:42:05,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:42:08,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:42:17,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:42:24,VEH002,P0171,System Too Lean,Medium
+2025-10-01 08:42:26,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:43:02,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:43:04,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:43:09,VEH004,P0171,System Too Lean,Medium
+2025-10-01 08:43:48,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:44:14,VEH004,P0171,System Too Lean,Medium
+2025-10-01 08:44:43,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:44:49,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:44:52,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:45:07,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:45:13,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:45:23,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:45:27,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:45:38,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:46:00,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:46:23,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:46:31,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:46:47,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:46:52,VEH002,P0171,System Too Lean,Medium
+2025-10-01 08:46:58,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:47:01,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:47:03,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:47:06,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:47:14,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:47:21,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:47:28,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:47:37,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:47:40,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:47:42,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:47:47,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:47:50,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:48:08,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:48:12,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:48:14,VEH001,P0171,System Too Lean,Medium
+2025-10-01 08:48:49,VEH001,P0171,System Too Lean,Medium
+2025-10-01 08:49:03,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:49:10,VEH002,P0171,System Too Lean,Medium
+2025-10-01 08:49:12,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:49:14,VEH002,P0171,System Too Lean,Medium
+2025-10-01 08:49:20,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:49:27,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:49:30,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:49:49,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:49:52,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:49:53,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:49:57,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:50:04,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:50:07,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:50:19,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:50:27,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:50:36,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:50:52,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:50:53,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:51:14,VEH001,P0171,System Too Lean,Medium
+2025-10-01 08:51:16,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:51:17,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:51:21,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:51:31,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:51:42,VEH002,P0171,System Too Lean,Medium
+2025-10-01 08:52:33,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:52:45,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:53:02,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:53:03,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:53:33,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:53:47,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:53:51,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:53:55,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:54:09,VEH002,P0171,System Too Lean,Medium
+2025-10-01 08:54:22,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:54:31,VEH003,P0171,System Too Lean,Medium
+2025-10-01 08:54:47,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:54:53,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:55:09,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:55:10,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:55:14,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:55:56,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:56:11,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:56:20,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:56:39,VEH004,P0171,System Too Lean,Medium
+2025-10-01 08:56:50,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:56:57,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:57:15,VEH004,P0171,System Too Lean,Medium
+2025-10-01 08:57:18,VEH004,P0171,System Too Lean,Medium
+2025-10-01 08:57:19,VEH001,P0171,System Too Lean,Medium
+2025-10-01 08:57:38,VEH002,P0171,System Too Lean,Medium
+2025-10-01 08:57:48,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 08:58:02,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 08:58:26,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 08:58:32,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:58:39,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:58:46,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:59:07,VEH003,P0171,System Too Lean,Medium
+2025-10-01 08:59:36,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:59:43,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 08:59:59,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:00:15,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:00:18,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:00:24,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:00:29,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:00:41,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:00:48,VEH001,P0171,System Too Lean,Medium
+2025-10-01 09:00:50,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:00:53,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:00:57,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:01:01,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:01:02,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:01:11,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:01:31,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:01:43,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:01:47,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:01:49,VEH001,P0171,System Too Lean,Medium
+2025-10-01 09:01:52,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:01:58,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:02:02,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:02:05,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:02:14,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:02:26,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:02:31,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:02:33,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:02:39,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:02:50,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:03:06,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:03:14,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:03:18,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:03:31,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:03:35,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:03:54,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:04:05,VEH003,P0171,System Too Lean,Medium
+2025-10-01 09:04:07,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:04:11,VEH004,P0171,System Too Lean,Medium
+2025-10-01 09:04:15,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:04:16,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:04:21,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:04:22,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:04:30,VEH002,P0171,System Too Lean,Medium
+2025-10-01 09:04:39,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:04:40,VEH004,P0171,System Too Lean,Medium
+2025-10-01 09:04:46,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:04:59,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:05:05,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:05:09,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:05:15,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:05:16,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:05:29,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:05:40,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:05:45,VEH003,P0171,System Too Lean,Medium
+2025-10-01 09:05:47,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:06:49,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:06:52,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:06:55,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:07:46,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:07:48,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:07:53,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:08:07,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:08:28,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:08:35,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:08:42,VEH002,P0171,System Too Lean,Medium
+2025-10-01 09:08:51,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:09:05,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:09:08,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:09:10,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:09:13,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:09:31,VEH003,P0171,System Too Lean,Medium
+2025-10-01 09:09:32,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:09:46,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:09:55,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:09:57,VEH003,P0171,System Too Lean,Medium
+2025-10-01 09:10:17,VEH001,P0171,System Too Lean,Medium
+2025-10-01 09:10:27,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:10:29,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:10:34,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:10:40,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:10:43,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:10:45,VEH001,P0171,System Too Lean,Medium
+2025-10-01 09:11:02,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:11:09,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:11:18,VEH003,P0171,System Too Lean,Medium
+2025-10-01 09:11:25,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:11:29,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:11:45,VEH002,P0171,System Too Lean,Medium
+2025-10-01 09:11:56,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:12:00,VEH002,P0171,System Too Lean,Medium
+2025-10-01 09:12:06,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:12:43,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:12:49,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:13:23,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:13:47,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:13:48,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:13:53,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:13:56,VEH004,P0171,System Too Lean,Medium
+2025-10-01 09:14:02,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:14:15,VEH002,P0171,System Too Lean,Medium
+2025-10-01 09:14:25,VEH003,P0171,System Too Lean,Medium
+2025-10-01 09:14:51,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:14:55,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:15:07,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:15:13,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:15:23,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:15:36,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:15:42,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:15:51,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:16:09,VEH003,P0171,System Too Lean,Medium
+2025-10-01 09:16:30,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:16:36,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:16:39,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:16:49,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:17:13,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:17:17,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:17:20,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:17:55,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:18:30,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:18:33,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:18:40,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:18:53,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:18:58,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:19:14,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:19:17,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:19:18,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:19:19,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:19:21,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:19:27,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:19:32,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:19:49,VEH001,P0171,System Too Lean,Medium
+2025-10-01 09:20:27,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:20:34,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:20:38,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:21:11,VEH002,P0171,System Too Lean,Medium
+2025-10-01 09:21:15,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:21:19,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:21:33,VEH004,P0171,System Too Lean,Medium
+2025-10-01 09:21:54,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:22:07,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:22:24,VEH002,P0171,System Too Lean,Medium
+2025-10-01 09:22:25,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:22:30,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:22:47,VEH002,P0171,System Too Lean,Medium
+2025-10-01 09:22:57,VEH002,P0171,System Too Lean,Medium
+2025-10-01 09:23:07,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:23:42,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:23:47,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:23:54,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:24:16,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:24:35,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:24:39,VEH001,P0171,System Too Lean,Medium
+2025-10-01 09:25:10,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:25:16,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:25:23,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:25:34,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:25:43,VEH003,P0171,System Too Lean,Medium
+2025-10-01 09:25:44,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:26:13,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:26:30,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:26:42,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:26:44,VEH002,P0171,System Too Lean,Medium
+2025-10-01 09:26:46,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:27:08,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:27:10,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:27:18,VEH002,P0171,System Too Lean,Medium
+2025-10-01 09:27:33,VEH001,P0171,System Too Lean,Medium
+2025-10-01 09:27:40,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:27:59,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:28:17,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:28:21,VEH002,P0171,System Too Lean,Medium
+2025-10-01 09:28:28,VEH003,P0171,System Too Lean,Medium
+2025-10-01 09:28:36,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:28:39,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:28:55,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:29:06,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:29:19,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:29:37,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:29:46,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:30:19,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:30:30,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:30:41,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:30:53,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:31:14,VEH003,P0171,System Too Lean,Medium
+2025-10-01 09:31:25,VEH004,P0171,System Too Lean,Medium
+2025-10-01 09:31:40,VEH004,P0171,System Too Lean,Medium
+2025-10-01 09:31:45,VEH004,P0171,System Too Lean,Medium
+2025-10-01 09:31:50,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:31:52,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:31:58,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:32:09,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:32:15,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:32:23,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:32:25,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:32:27,VEH002,P0171,System Too Lean,Medium
+2025-10-01 09:32:28,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:32:31,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:32:46,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:32:50,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:33:06,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:33:27,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:33:31,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:34:08,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:34:17,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:34:23,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:34:26,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:35:17,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:35:41,VEH001,P0171,System Too Lean,Medium
+2025-10-01 09:35:48,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:35:52,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:35:53,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:36:03,VEH001,P0171,System Too Lean,Medium
+2025-10-01 09:36:15,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:36:16,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:36:38,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:36:43,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:36:44,VEH002,P0171,System Too Lean,Medium
+2025-10-01 09:36:52,VEH003,P0171,System Too Lean,Medium
+2025-10-01 09:36:54,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:37:08,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:37:20,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:37:22,VEH004,P0171,System Too Lean,Medium
+2025-10-01 09:37:46,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:38:24,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:38:34,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:38:35,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:38:37,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:38:50,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:40:12,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:40:18,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:40:21,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:40:23,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:40:29,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:40:33,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:40:45,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:40:46,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:40:48,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:41:09,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:41:23,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:41:32,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:41:39,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:42:03,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:42:29,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:42:47,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:43:00,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:43:05,VEH001,P0171,System Too Lean,Medium
+2025-10-01 09:43:30,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:43:47,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:44:02,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:44:27,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:44:32,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:44:38,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:45:01,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:45:07,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:45:11,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:45:17,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:45:40,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:45:53,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:46:03,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:46:08,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:46:27,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:46:44,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:47:03,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:47:35,VEH001,P0171,System Too Lean,Medium
+2025-10-01 09:47:50,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:48:00,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:48:23,VEH003,P0171,System Too Lean,Medium
+2025-10-01 09:48:30,VEH001,P0171,System Too Lean,Medium
+2025-10-01 09:48:33,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:48:50,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:49:06,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:49:10,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:49:17,VEH002,P0171,System Too Lean,Medium
+2025-10-01 09:49:28,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:49:36,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:49:40,VEH002,P0171,System Too Lean,Medium
+2025-10-01 09:50:04,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:50:29,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:50:35,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:50:38,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:50:43,VEH003,P0171,System Too Lean,Medium
+2025-10-01 09:51:04,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:51:20,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:51:22,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:51:23,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:51:25,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:51:26,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:51:38,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:51:52,VEH002,P0171,System Too Lean,Medium
+2025-10-01 09:52:04,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:52:06,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:52:11,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:52:20,VEH002,P0171,System Too Lean,Medium
+2025-10-01 09:52:42,VEH001,P0171,System Too Lean,Medium
+2025-10-01 09:52:54,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:53:07,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:53:08,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:53:09,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:53:49,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:53:56,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:54:05,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:54:11,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:54:23,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:54:31,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:54:37,VEH002,P0171,System Too Lean,Medium
+2025-10-01 09:54:52,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:55:03,VEH004,P0171,System Too Lean,Medium
+2025-10-01 09:55:12,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:55:21,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:55:38,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:55:47,VEH003,P0171,System Too Lean,Medium
+2025-10-01 09:55:49,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:55:50,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:56:09,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:56:11,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:56:13,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:56:17,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:56:31,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:56:37,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:56:42,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:56:51,VEH004,P0171,System Too Lean,Medium
+2025-10-01 09:56:58,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:57:01,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 09:57:05,VEH003,P0171,System Too Lean,Medium
+2025-10-01 09:57:20,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:57:26,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:57:44,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:57:57,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:58:04,VEH001,P0171,System Too Lean,Medium
+2025-10-01 09:58:10,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:58:13,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:58:34,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:58:36,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:58:38,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 09:58:41,VEH003,P0171,System Too Lean,Medium
+2025-10-01 09:58:59,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 09:59:23,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 09:59:33,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:00:05,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:00:25,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:00:51,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:01:12,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:01:27,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:01:29,VEH004,P0171,System Too Lean,Medium
+2025-10-01 10:01:39,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:01:44,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:01:47,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:01:54,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:01:56,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:02:05,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:02:12,VEH004,P0171,System Too Lean,Medium
+2025-10-01 10:02:18,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:02:21,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:02:38,VEH004,P0171,System Too Lean,Medium
+2025-10-01 10:02:41,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:02:45,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:02:54,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:03:00,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:03:07,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:03:17,VEH002,P0171,System Too Lean,Medium
+2025-10-01 10:03:20,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:03:54,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:03:57,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:03:59,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:04:02,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:04:06,VEH004,P0171,System Too Lean,Medium
+2025-10-01 10:04:44,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:04:45,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:04:55,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:05:13,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:05:24,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:05:36,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:05:37,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:06:12,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:06:31,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:06:32,VEH004,P0171,System Too Lean,Medium
+2025-10-01 10:06:51,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:06:53,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:07:17,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:07:42,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:07:43,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:07:55,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:07:57,VEH001,P0171,System Too Lean,Medium
+2025-10-01 10:08:03,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:08:20,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:08:24,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:08:36,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:08:47,VEH002,P0171,System Too Lean,Medium
+2025-10-01 10:08:59,VEH003,P0171,System Too Lean,Medium
+2025-10-01 10:09:02,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:09:17,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:09:34,VEH004,P0171,System Too Lean,Medium
+2025-10-01 10:09:40,VEH003,P0171,System Too Lean,Medium
+2025-10-01 10:09:48,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:09:57,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:10:01,VEH002,P0171,System Too Lean,Medium
+2025-10-01 10:10:11,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:10:12,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:10:23,VEH001,P0171,System Too Lean,Medium
+2025-10-01 10:10:35,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:10:39,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:11:04,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:11:05,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:11:06,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:11:08,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:11:11,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:11:12,VEH004,P0171,System Too Lean,Medium
+2025-10-01 10:11:49,VEH001,P0171,System Too Lean,Medium
+2025-10-01 10:11:59,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:12:02,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:12:03,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:12:09,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:12:14,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:12:22,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:12:33,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:12:35,VEH001,P0171,System Too Lean,Medium
+2025-10-01 10:12:42,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:12:59,VEH002,P0171,System Too Lean,Medium
+2025-10-01 10:13:08,VEH001,P0171,System Too Lean,Medium
+2025-10-01 10:13:39,VEH004,P0171,System Too Lean,Medium
+2025-10-01 10:13:42,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:13:47,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:13:59,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:14:02,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:14:07,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:14:23,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:14:39,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:14:42,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:14:57,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:15:10,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:15:23,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:15:24,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:15:31,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:15:37,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:15:40,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:15:48,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:15:56,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:15:58,VEH001,P0171,System Too Lean,Medium
+2025-10-01 10:16:01,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:16:21,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:16:28,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:16:32,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:16:35,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:16:47,VEH004,P0171,System Too Lean,Medium
+2025-10-01 10:16:59,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:17:04,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:17:20,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:17:38,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:17:39,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:17:40,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:17:57,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:18:22,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:18:29,VEH003,P0171,System Too Lean,Medium
+2025-10-01 10:18:40,VEH002,P0171,System Too Lean,Medium
+2025-10-01 10:18:44,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:18:45,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:19:02,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:19:04,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:19:09,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:19:19,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:19:23,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:19:32,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:19:50,VEH004,P0171,System Too Lean,Medium
+2025-10-01 10:20:05,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:20:09,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:20:51,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:20:58,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:21:01,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:21:03,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:21:14,VEH001,P0171,System Too Lean,Medium
+2025-10-01 10:21:21,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:21:23,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:21:25,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:22:16,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:22:27,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:22:36,VEH003,P0171,System Too Lean,Medium
+2025-10-01 10:22:56,VEH001,P0171,System Too Lean,Medium
+2025-10-01 10:22:57,VEH004,P0171,System Too Lean,Medium
+2025-10-01 10:23:11,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:23:16,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:23:26,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:23:31,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:23:40,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:23:43,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:23:47,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:24:09,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:24:13,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:24:28,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:24:50,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:25:01,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:25:19,VEH003,P0171,System Too Lean,Medium
+2025-10-01 10:25:21,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:25:25,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:25:27,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:25:32,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:25:40,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:25:42,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:25:46,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:25:57,VEH001,P0171,System Too Lean,Medium
+2025-10-01 10:26:11,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:26:29,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:26:36,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:27:12,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:27:13,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:27:21,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:27:46,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:28:05,VEH002,P0171,System Too Lean,Medium
+2025-10-01 10:28:07,VEH002,P0171,System Too Lean,Medium
+2025-10-01 10:28:09,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:28:28,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:28:30,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:28:38,VEH004,P0171,System Too Lean,Medium
+2025-10-01 10:28:40,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:28:44,VEH002,P0171,System Too Lean,Medium
+2025-10-01 10:28:53,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:29:11,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:29:18,VEH004,P0171,System Too Lean,Medium
+2025-10-01 10:29:44,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:29:45,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:29:46,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:29:57,VEH001,P0171,System Too Lean,Medium
+2025-10-01 10:30:03,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:30:06,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:30:40,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:30:44,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:30:53,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:31:05,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:31:08,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:31:11,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:31:55,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:32:05,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:32:30,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:32:36,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:32:47,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:32:50,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:32:58,VEH001,P0171,System Too Lean,Medium
+2025-10-01 10:33:06,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:34:27,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:34:28,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:34:38,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:34:57,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:35:15,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:35:17,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:35:19,VEH002,P0171,System Too Lean,Medium
+2025-10-01 10:35:26,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:35:46,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:35:58,VEH002,P0171,System Too Lean,Medium
+2025-10-01 10:36:03,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:36:06,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:36:10,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:36:14,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:36:24,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:36:25,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:36:31,VEH002,P0171,System Too Lean,Medium
+2025-10-01 10:36:49,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:36:55,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:37:09,VEH003,P0171,System Too Lean,Medium
+2025-10-01 10:37:15,VEH003,P0171,System Too Lean,Medium
+2025-10-01 10:37:17,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:37:30,VEH002,P0171,System Too Lean,Medium
+2025-10-01 10:37:32,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:37:44,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:37:49,VEH004,P0171,System Too Lean,Medium
+2025-10-01 10:38:13,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:38:24,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:38:30,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:38:50,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:38:55,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:38:59,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:39:03,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:39:43,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:39:46,VEH003,P0171,System Too Lean,Medium
+2025-10-01 10:40:00,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:40:08,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:40:11,VEH004,P0171,System Too Lean,Medium
+2025-10-01 10:40:30,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:40:32,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:40:52,VEH001,P0171,System Too Lean,Medium
+2025-10-01 10:40:59,VEH001,P0171,System Too Lean,Medium
+2025-10-01 10:41:24,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:41:47,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:41:54,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:42:36,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:42:38,VEH001,P0171,System Too Lean,Medium
+2025-10-01 10:42:50,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:43:01,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:43:32,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:43:33,VEH004,P0171,System Too Lean,Medium
+2025-10-01 10:43:43,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:44:07,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:44:16,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:44:24,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:44:30,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:44:36,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:45:12,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:45:31,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:45:41,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:45:45,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:45:54,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:46:00,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:46:32,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:46:33,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:46:35,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:46:42,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:46:53,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:46:57,VEH002,P0171,System Too Lean,Medium
+2025-10-01 10:47:06,VEH002,P0171,System Too Lean,Medium
+2025-10-01 10:47:11,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:47:14,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:47:16,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:47:54,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:47:55,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:48:03,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:48:11,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:48:28,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:48:40,VEH002,P0171,System Too Lean,Medium
+2025-10-01 10:48:45,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:48:58,VEH003,P0171,System Too Lean,Medium
+2025-10-01 10:49:16,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:49:17,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:49:19,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:49:20,VEH003,P0171,System Too Lean,Medium
+2025-10-01 10:49:22,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:49:27,VEH003,P0171,System Too Lean,Medium
+2025-10-01 10:49:43,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:50:40,VEH001,P0171,System Too Lean,Medium
+2025-10-01 10:51:03,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:51:10,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:51:13,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:51:18,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:51:27,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:51:35,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:51:42,VEH004,P0171,System Too Lean,Medium
+2025-10-01 10:51:54,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:51:58,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:52:04,VEH002,P0171,System Too Lean,Medium
+2025-10-01 10:52:14,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:52:19,VEH002,P0171,System Too Lean,Medium
+2025-10-01 10:52:21,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:52:26,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:52:34,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:52:45,VEH001,P0171,System Too Lean,Medium
+2025-10-01 10:52:46,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:52:48,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:53:00,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:53:03,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:53:07,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:53:24,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:53:25,VEH002,P0171,System Too Lean,Medium
+2025-10-01 10:53:40,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:53:49,VEH002,P0171,System Too Lean,Medium
+2025-10-01 10:53:59,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:54:03,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:54:07,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:54:14,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:54:26,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:54:29,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:54:33,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:54:49,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:55:20,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:55:25,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:55:35,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:55:45,VEH001,P0171,System Too Lean,Medium
+2025-10-01 10:55:46,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:55:50,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:55:52,VEH003,P0171,System Too Lean,Medium
+2025-10-01 10:55:56,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:56:03,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:56:15,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:56:35,VEH004,P0171,System Too Lean,Medium
+2025-10-01 10:56:53,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:56:55,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:57:09,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:57:16,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:57:22,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:57:26,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:57:31,VEH002,P0171,System Too Lean,Medium
+2025-10-01 10:57:37,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:57:47,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:58:09,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:58:20,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:58:40,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 10:58:54,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:59:06,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 10:59:14,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:59:20,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 10:59:48,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 10:59:57,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:00:13,VEH001,P0171,System Too Lean,Medium
+2025-10-01 11:00:21,VEH002,P0171,System Too Lean,Medium
+2025-10-01 11:00:29,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:00:31,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:00:44,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:01:12,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:01:35,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:02:06,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:02:08,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:02:21,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:02:28,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:02:35,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:02:49,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:02:50,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:02:59,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:03:04,VEH002,P0171,System Too Lean,Medium
+2025-10-01 11:03:27,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:03:58,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:04:05,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:04:22,VEH001,P0171,System Too Lean,Medium
+2025-10-01 11:04:25,VEH003,P0171,System Too Lean,Medium
+2025-10-01 11:04:28,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:04:38,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:04:41,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:04:56,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:04:57,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:05:15,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:05:44,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:05:58,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:05:59,VEH004,P0171,System Too Lean,Medium
+2025-10-01 11:06:03,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:06:12,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:06:16,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:06:22,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:06:33,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:06:52,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:06:54,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:06:59,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:07:17,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:07:38,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:07:55,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:07:58,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:08:05,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:08:09,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:08:50,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:08:53,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:08:58,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:09:17,VEH001,P0171,System Too Lean,Medium
+2025-10-01 11:09:58,VEH002,P0171,System Too Lean,Medium
+2025-10-01 11:10:07,VEH001,P0171,System Too Lean,Medium
+2025-10-01 11:10:25,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:10:33,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:10:37,VEH003,P0171,System Too Lean,Medium
+2025-10-01 11:10:43,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:10:46,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:10:53,VEH001,P0171,System Too Lean,Medium
+2025-10-01 11:10:56,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:11:02,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:11:03,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:11:07,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:11:23,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:11:35,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:11:55,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:12:12,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:12:20,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:12:24,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:12:28,VEH003,P0171,System Too Lean,Medium
+2025-10-01 11:12:29,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:12:38,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:12:42,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:12:43,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:13:03,VEH002,P0171,System Too Lean,Medium
+2025-10-01 11:13:12,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:13:20,VEH003,P0171,System Too Lean,Medium
+2025-10-01 11:14:25,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:14:27,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:14:29,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:14:40,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:14:45,VEH001,P0171,System Too Lean,Medium
+2025-10-01 11:14:53,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:15:12,VEH001,P0171,System Too Lean,Medium
+2025-10-01 11:15:16,VEH004,P0171,System Too Lean,Medium
+2025-10-01 11:15:35,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:15:47,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:16:09,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:16:30,VEH004,P0171,System Too Lean,Medium
+2025-10-01 11:16:48,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:17:03,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:17:10,VEH003,P0171,System Too Lean,Medium
+2025-10-01 11:17:42,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:17:47,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:17:51,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:17:52,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:17:58,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:18:05,VEH001,P0171,System Too Lean,Medium
+2025-10-01 11:18:06,VEH004,P0171,System Too Lean,Medium
+2025-10-01 11:18:17,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:18:47,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:18:52,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:18:58,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:19:02,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:19:08,VEH003,P0171,System Too Lean,Medium
+2025-10-01 11:19:25,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:19:33,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:20:01,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:20:33,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:20:47,VEH002,P0171,System Too Lean,Medium
+2025-10-01 11:20:51,VEH002,P0171,System Too Lean,Medium
+2025-10-01 11:21:01,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:21:07,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:21:10,VEH001,P0171,System Too Lean,Medium
+2025-10-01 11:21:22,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:21:32,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:21:34,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:21:52,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:22:13,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:22:24,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:22:52,VEH002,P0171,System Too Lean,Medium
+2025-10-01 11:22:54,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:23:07,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:23:08,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:23:16,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:23:33,VEH003,P0171,System Too Lean,Medium
+2025-10-01 11:23:34,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:23:47,VEH002,P0171,System Too Lean,Medium
+2025-10-01 11:23:57,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:24:03,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:24:04,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:24:10,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:24:12,VEH001,P0171,System Too Lean,Medium
+2025-10-01 11:24:25,VEH001,P0171,System Too Lean,Medium
+2025-10-01 11:24:35,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:24:47,VEH003,P0171,System Too Lean,Medium
+2025-10-01 11:25:03,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:25:06,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:25:18,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:25:39,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:25:41,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:25:51,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:25:53,VEH004,P0171,System Too Lean,Medium
+2025-10-01 11:26:00,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:26:05,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:26:17,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:26:18,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:26:25,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:26:42,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:26:45,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:26:47,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:26:49,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:27:02,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:27:03,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:27:04,VEH002,P0171,System Too Lean,Medium
+2025-10-01 11:27:10,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:27:12,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:27:43,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:27:45,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:27:49,VEH004,P0171,System Too Lean,Medium
+2025-10-01 11:28:18,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:28:46,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:28:51,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:29:21,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:29:26,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:29:27,VEH001,P0171,System Too Lean,Medium
+2025-10-01 11:29:31,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:29:41,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:29:48,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:30:01,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:30:11,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:30:27,VEH001,P0171,System Too Lean,Medium
+2025-10-01 11:30:29,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:30:31,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:30:32,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:30:51,VEH002,P0171,System Too Lean,Medium
+2025-10-01 11:30:55,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:30:58,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:31:18,VEH002,P0171,System Too Lean,Medium
+2025-10-01 11:31:35,VEH002,P0171,System Too Lean,Medium
+2025-10-01 11:31:53,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:31:55,VEH001,P0171,System Too Lean,Medium
+2025-10-01 11:32:03,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:32:23,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:33:06,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:33:08,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:33:12,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:33:23,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:33:25,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:33:50,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:33:52,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:33:53,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:34:04,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:34:23,VEH004,P0171,System Too Lean,Medium
+2025-10-01 11:34:24,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:34:32,VEH004,P0171,System Too Lean,Medium
+2025-10-01 11:34:37,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:34:48,VEH004,P0171,System Too Lean,Medium
+2025-10-01 11:34:54,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:35:05,VEH004,P0171,System Too Lean,Medium
+2025-10-01 11:35:09,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:35:26,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:35:35,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:35:43,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:35:53,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:35:54,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:35:58,VEH002,P0171,System Too Lean,Medium
+2025-10-01 11:36:02,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:36:03,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:36:19,VEH001,P0171,System Too Lean,Medium
+2025-10-01 11:36:22,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:36:32,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:36:53,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:36:55,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:37:00,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:37:01,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:37:08,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:37:17,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:37:20,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:37:21,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:37:50,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:38:08,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:38:16,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:38:27,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:38:49,VEH002,P0171,System Too Lean,Medium
+2025-10-01 11:39:04,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:39:15,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:39:22,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:39:27,VEH003,P0171,System Too Lean,Medium
+2025-10-01 11:39:41,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:39:47,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:39:53,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:40:01,VEH002,P0171,System Too Lean,Medium
+2025-10-01 11:40:02,VEH002,P0171,System Too Lean,Medium
+2025-10-01 11:40:04,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:40:08,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:40:10,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:40:39,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:40:46,VEH003,P0171,System Too Lean,Medium
+2025-10-01 11:40:47,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:40:55,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:40:59,VEH003,P0171,System Too Lean,Medium
+2025-10-01 11:41:20,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:41:37,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:41:44,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:41:51,VEH002,P0171,System Too Lean,Medium
+2025-10-01 11:42:17,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:42:23,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:42:28,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:42:30,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:42:32,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:42:42,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:42:43,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:42:53,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:43:03,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:43:04,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:43:20,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:43:28,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:43:29,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:43:33,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:44:12,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:44:30,VEH003,P0171,System Too Lean,Medium
+2025-10-01 11:44:53,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:44:56,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:45:04,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:45:22,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:45:40,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:45:46,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:45:56,VEH004,P0171,System Too Lean,Medium
+2025-10-01 11:45:58,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:46:08,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:46:11,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:46:20,VEH002,P0171,System Too Lean,Medium
+2025-10-01 11:46:27,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:46:49,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:46:56,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:47:09,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:47:14,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:47:16,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:47:33,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:47:43,VEH003,P0171,System Too Lean,Medium
+2025-10-01 11:47:52,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:48:06,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:48:08,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:48:56,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:49:01,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:49:03,VEH002,P0171,System Too Lean,Medium
+2025-10-01 11:49:08,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:49:42,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:50:09,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:50:16,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:50:18,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:50:26,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:50:30,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:50:35,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:50:46,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:50:54,VEH001,P0171,System Too Lean,Medium
+2025-10-01 11:50:57,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:51:00,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:51:06,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:51:09,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:51:19,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:51:31,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:51:35,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:51:44,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:51:45,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:52:08,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:52:09,VEH002,P0171,System Too Lean,Medium
+2025-10-01 11:52:14,VEH004,P0171,System Too Lean,Medium
+2025-10-01 11:52:17,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:52:23,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:52:30,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:52:33,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:52:34,VEH003,P0171,System Too Lean,Medium
+2025-10-01 11:52:47,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:52:49,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:53:07,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:53:11,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:53:18,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:53:23,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:53:25,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:53:42,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:53:47,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:53:51,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:53:57,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:53:59,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:54:00,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:54:02,VEH004,P0171,System Too Lean,Medium
+2025-10-01 11:54:04,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:54:05,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:54:07,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:54:10,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:54:21,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:54:33,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:54:40,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:55:12,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:55:17,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:55:24,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:55:27,VEH004,P0171,System Too Lean,Medium
+2025-10-01 11:55:45,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:55:55,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:55:57,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:56:09,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:56:12,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:56:31,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:57:45,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:57:51,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:58:03,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:58:17,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:58:41,VEH002,P0171,System Too Lean,Medium
+2025-10-01 11:58:45,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:58:53,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:58:57,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:58:59,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 11:59:24,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:59:26,VEH004,P0171,System Too Lean,Medium
+2025-10-01 11:59:32,VEH001,P0171,System Too Lean,Medium
+2025-10-01 11:59:37,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 11:59:38,VEH003,P0171,System Too Lean,Medium
+2025-10-01 11:59:39,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 11:59:42,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:59:46,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 11:59:53,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:00:05,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:00:11,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:00:21,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:00:25,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:00:38,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:00:39,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:00:43,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:00:44,VEH004,P0171,System Too Lean,Medium
+2025-10-01 12:00:48,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:00:54,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:01:07,VEH004,P0171,System Too Lean,Medium
+2025-10-01 12:01:09,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:01:32,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:01:40,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:01:54,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:01:57,VEH004,P0171,System Too Lean,Medium
+2025-10-01 12:02:09,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:02:12,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:02:15,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:02:18,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:02:26,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:02:30,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:02:31,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:02:38,VEH003,P0171,System Too Lean,Medium
+2025-10-01 12:02:49,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:02:53,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:03:02,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:03:07,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:03:32,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:03:36,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:03:42,VEH003,P0171,System Too Lean,Medium
+2025-10-01 12:03:58,VEH003,P0171,System Too Lean,Medium
+2025-10-01 12:04:04,VEH002,P0171,System Too Lean,Medium
+2025-10-01 12:04:05,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:04:20,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:04:22,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:04:32,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:04:53,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:05:05,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:05:09,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:05:21,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:05:23,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:05:27,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:05:46,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:05:56,VEH004,P0171,System Too Lean,Medium
+2025-10-01 12:06:02,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:06:23,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:06:26,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:06:36,VEH002,P0171,System Too Lean,Medium
+2025-10-01 12:06:48,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:06:51,VEH001,P0171,System Too Lean,Medium
+2025-10-01 12:06:54,VEH004,P0171,System Too Lean,Medium
+2025-10-01 12:06:55,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:06:56,VEH002,P0171,System Too Lean,Medium
+2025-10-01 12:07:10,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:07:24,VEH004,P0171,System Too Lean,Medium
+2025-10-01 12:07:32,VEH004,P0171,System Too Lean,Medium
+2025-10-01 12:07:41,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:07:42,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:07:44,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:07:46,VEH003,P0171,System Too Lean,Medium
+2025-10-01 12:07:49,VEH003,P0171,System Too Lean,Medium
+2025-10-01 12:07:50,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:07:54,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:07:59,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:08:06,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:08:11,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:08:30,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:08:32,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:08:36,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:08:44,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:08:54,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:09:06,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:09:09,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:09:16,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:09:27,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:09:42,VEH003,P0171,System Too Lean,Medium
+2025-10-01 12:09:56,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:10:06,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:10:12,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:10:17,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:10:24,VEH004,P0171,System Too Lean,Medium
+2025-10-01 12:10:25,VEH002,P0171,System Too Lean,Medium
+2025-10-01 12:10:33,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:10:40,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:10:43,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:10:47,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:10:58,VEH003,P0171,System Too Lean,Medium
+2025-10-01 12:10:59,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:11:04,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:11:16,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:11:43,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:11:47,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:11:57,VEH004,P0171,System Too Lean,Medium
+2025-10-01 12:11:59,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:12:07,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:12:10,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:12:38,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:12:44,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:12:49,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:12:50,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:12:59,VEH001,P0171,System Too Lean,Medium
+2025-10-01 12:13:20,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:13:36,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:14:20,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:14:24,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:14:30,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:14:40,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:14:43,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:14:47,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:14:53,VEH003,P0171,System Too Lean,Medium
+2025-10-01 12:15:00,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:15:12,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:15:19,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:15:40,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:15:46,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:16:02,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:16:13,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:16:16,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:16:17,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:16:20,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:16:27,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:16:53,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:16:56,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:17:21,VEH001,P0171,System Too Lean,Medium
+2025-10-01 12:17:22,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:17:41,VEH001,P0171,System Too Lean,Medium
+2025-10-01 12:17:46,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:17:47,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:17:58,VEH003,P0171,System Too Lean,Medium
+2025-10-01 12:18:49,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:19:06,VEH002,P0171,System Too Lean,Medium
+2025-10-01 12:19:07,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:19:47,VEH002,P0171,System Too Lean,Medium
+2025-10-01 12:19:52,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:20:42,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:20:58,VEH004,P0171,System Too Lean,Medium
+2025-10-01 12:21:00,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:21:01,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:21:20,VEH001,P0171,System Too Lean,Medium
+2025-10-01 12:21:36,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:21:46,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:21:47,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:22:00,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:22:05,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:22:11,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:22:29,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:22:52,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:22:57,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:22:58,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:23:02,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:23:04,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:23:20,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:23:49,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:24:16,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:24:22,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:24:30,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:24:36,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:24:38,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:24:50,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:24:52,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:25:07,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:25:20,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:25:31,VEH001,P0171,System Too Lean,Medium
+2025-10-01 12:25:35,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:25:47,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:26:06,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:26:28,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:27:11,VEH001,P0171,System Too Lean,Medium
+2025-10-01 12:27:13,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:27:23,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:27:25,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:27:27,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:27:35,VEH002,P0171,System Too Lean,Medium
+2025-10-01 12:27:37,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:27:41,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:27:49,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:27:51,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:27:54,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:27:56,VEH003,P0171,System Too Lean,Medium
+2025-10-01 12:27:57,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:28:10,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:28:11,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:28:14,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:28:42,VEH002,P0171,System Too Lean,Medium
+2025-10-01 12:28:49,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:29:06,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:29:11,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:29:15,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:29:18,VEH002,P0171,System Too Lean,Medium
+2025-10-01 12:29:26,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:29:27,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:29:29,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:29:33,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:29:44,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:29:52,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:30:10,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:30:23,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:30:35,VEH001,P0171,System Too Lean,Medium
+2025-10-01 12:30:46,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:30:50,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:30:57,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:31:05,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:31:08,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:31:22,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:31:41,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:31:45,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:31:47,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:32:14,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:32:48,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:33:07,VEH001,P0171,System Too Lean,Medium
+2025-10-01 12:33:22,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:33:24,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:33:31,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:33:41,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:33:51,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:33:59,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:34:10,VEH004,P0171,System Too Lean,Medium
+2025-10-01 12:34:16,VEH003,P0171,System Too Lean,Medium
+2025-10-01 12:34:18,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:34:21,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:34:28,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:34:33,VEH003,P0171,System Too Lean,Medium
+2025-10-01 12:34:34,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:34:41,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:34:47,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:34:48,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:35:42,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:35:54,VEH002,P0171,System Too Lean,Medium
+2025-10-01 12:36:04,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:36:10,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:36:22,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:36:24,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:36:40,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:36:57,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:37:05,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:37:09,VEH002,P0171,System Too Lean,Medium
+2025-10-01 12:37:14,VEH003,P0171,System Too Lean,Medium
+2025-10-01 12:37:19,VEH001,P0171,System Too Lean,Medium
+2025-10-01 12:37:42,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:37:45,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:37:53,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:37:56,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:38:05,VEH002,P0171,System Too Lean,Medium
+2025-10-01 12:38:08,VEH002,P0171,System Too Lean,Medium
+2025-10-01 12:38:14,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:38:15,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:38:21,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:38:34,VEH002,P0171,System Too Lean,Medium
+2025-10-01 12:38:51,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:38:55,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:38:57,VEH003,P0171,System Too Lean,Medium
+2025-10-01 12:39:00,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:39:07,VEH003,P0171,System Too Lean,Medium
+2025-10-01 12:39:33,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:39:35,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:40:04,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:40:06,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:40:12,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:40:33,VEH002,P0171,System Too Lean,Medium
+2025-10-01 12:40:36,VEH001,P0171,System Too Lean,Medium
+2025-10-01 12:40:38,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:40:41,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:40:48,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:40:54,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:41:12,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:41:17,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:41:20,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:41:23,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:41:30,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:41:51,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:42:15,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:42:31,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:42:42,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:42:49,VEH003,P0171,System Too Lean,Medium
+2025-10-01 12:42:53,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:42:54,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:43:30,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:43:44,VEH004,P0171,System Too Lean,Medium
+2025-10-01 12:43:51,VEH002,P0171,System Too Lean,Medium
+2025-10-01 12:44:01,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:44:08,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:44:20,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:44:24,VEH004,P0171,System Too Lean,Medium
+2025-10-01 12:44:31,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:44:39,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:44:48,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:44:56,VEH002,P0171,System Too Lean,Medium
+2025-10-01 12:45:15,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:45:21,VEH002,P0171,System Too Lean,Medium
+2025-10-01 12:45:25,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:45:29,VEH002,P0171,System Too Lean,Medium
+2025-10-01 12:45:32,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:45:36,VEH004,P0171,System Too Lean,Medium
+2025-10-01 12:45:42,VEH001,P0171,System Too Lean,Medium
+2025-10-01 12:45:43,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:45:49,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:45:50,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:45:54,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:46:03,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:46:05,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:46:14,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:46:36,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:46:50,VEH001,P0171,System Too Lean,Medium
+2025-10-01 12:46:52,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:47:07,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:47:09,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:47:28,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:47:44,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:47:47,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:47:59,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:48:04,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:48:11,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:48:16,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:48:18,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:48:22,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:48:26,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:48:58,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:49:04,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:49:06,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:49:15,VEH003,P0171,System Too Lean,Medium
+2025-10-01 12:49:17,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:49:29,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:49:41,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:49:43,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:49:57,VEH003,P0171,System Too Lean,Medium
+2025-10-01 12:50:06,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:50:07,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:50:15,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:50:20,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:50:30,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:50:31,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:50:38,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:50:45,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:50:55,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:51:21,VEH002,P0171,System Too Lean,Medium
+2025-10-01 12:51:23,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:51:50,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:52:05,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:52:12,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:52:46,VEH003,P0171,System Too Lean,Medium
+2025-10-01 12:53:00,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:53:25,VEH003,P0171,System Too Lean,Medium
+2025-10-01 12:53:28,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:53:29,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:53:56,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:54:29,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:54:32,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:54:38,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:54:53,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:54:56,VEH001,P0171,System Too Lean,Medium
+2025-10-01 12:55:07,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:55:18,VEH001,P0171,System Too Lean,Medium
+2025-10-01 12:55:20,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:55:38,VEH004,P0171,System Too Lean,Medium
+2025-10-01 12:56:24,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:56:32,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:56:50,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:57:12,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:57:15,VEH001,P0171,System Too Lean,Medium
+2025-10-01 12:57:24,VEH003,P0171,System Too Lean,Medium
+2025-10-01 12:57:28,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:57:29,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:57:40,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:57:42,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:57:53,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:57:57,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:57:58,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:57:59,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:58:06,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:58:07,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:58:17,VEH003,P0171,System Too Lean,Medium
+2025-10-01 12:58:26,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:58:38,VEH004,P0171,System Too Lean,Medium
+2025-10-01 12:58:41,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:58:47,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 12:58:51,VEH002,P0171,System Too Lean,Medium
+2025-10-01 12:58:55,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 12:59:02,VEH001,P0171,System Too Lean,Medium
+2025-10-01 12:59:10,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:59:16,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 12:59:34,VEH002,P0171,System Too Lean,Medium
+2025-10-01 12:59:37,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 12:59:49,VEH002,P0171,System Too Lean,Medium
+2025-10-01 12:59:50,VEH003,P0171,System Too Lean,Medium
+2025-10-01 12:59:57,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:00:02,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:00:03,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:00:12,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:00:18,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:00:27,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:00:37,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:00:46,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:00:52,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:01:11,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:01:18,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:01:21,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:01:23,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:01:31,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:01:35,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:01:42,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:01:43,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:01:48,VEH003,P0171,System Too Lean,Medium
+2025-10-01 13:02:06,VEH001,P0171,System Too Lean,Medium
+2025-10-01 13:02:30,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:02:37,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:02:44,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:02:50,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:02:53,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:02:56,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:02:58,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:03:07,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:03:23,VEH002,P0171,System Too Lean,Medium
+2025-10-01 13:03:35,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:03:51,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:03:57,VEH001,P0171,System Too Lean,Medium
+2025-10-01 13:04:19,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:04:34,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:04:36,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:04:38,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:04:53,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:04:54,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:05:19,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:05:26,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:05:27,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:05:29,VEH004,P0171,System Too Lean,Medium
+2025-10-01 13:05:45,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:05:50,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:06:26,VEH001,P0171,System Too Lean,Medium
+2025-10-01 13:06:32,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:06:48,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:07:26,VEH001,P0171,System Too Lean,Medium
+2025-10-01 13:07:28,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:07:53,VEH004,P0171,System Too Lean,Medium
+2025-10-01 13:07:55,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:07:56,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:08:12,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:08:27,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:08:34,VEH004,P0171,System Too Lean,Medium
+2025-10-01 13:08:36,VEH004,P0171,System Too Lean,Medium
+2025-10-01 13:08:37,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:08:40,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:08:41,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:08:46,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:08:51,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:09:01,VEH003,P0171,System Too Lean,Medium
+2025-10-01 13:09:19,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:09:49,VEH002,P0171,System Too Lean,Medium
+2025-10-01 13:10:09,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:10:23,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:10:34,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:11:03,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:11:17,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:11:26,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:11:30,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:11:31,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:11:34,VEH002,P0171,System Too Lean,Medium
+2025-10-01 13:11:35,VEH004,P0171,System Too Lean,Medium
+2025-10-01 13:11:50,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:12:03,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:12:07,VEH001,P0171,System Too Lean,Medium
+2025-10-01 13:12:27,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:12:43,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:12:58,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:13:00,VEH002,P0171,System Too Lean,Medium
+2025-10-01 13:13:32,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:13:45,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:13:46,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:13:52,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:14:02,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:14:19,VEH004,P0171,System Too Lean,Medium
+2025-10-01 13:14:25,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:14:29,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:14:34,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:14:52,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:14:55,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:15:15,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:15:24,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:15:31,VEH003,P0171,System Too Lean,Medium
+2025-10-01 13:15:38,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:16:14,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:16:30,VEH001,P0171,System Too Lean,Medium
+2025-10-01 13:16:43,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:16:59,VEH001,P0171,System Too Lean,Medium
+2025-10-01 13:17:00,VEH002,P0171,System Too Lean,Medium
+2025-10-01 13:17:01,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:17:03,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:17:05,VEH003,P0171,System Too Lean,Medium
+2025-10-01 13:17:12,VEH004,P0171,System Too Lean,Medium
+2025-10-01 13:17:15,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:17:28,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:17:29,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:17:36,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:17:46,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:17:48,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:18:06,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:18:07,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:18:11,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:18:20,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:18:29,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:18:31,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:18:46,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:18:50,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:18:52,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:19:01,VEH002,P0171,System Too Lean,Medium
+2025-10-01 13:19:22,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:19:24,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:19:25,VEH001,P0171,System Too Lean,Medium
+2025-10-01 13:19:38,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:19:55,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:19:57,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:20:04,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:20:09,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:20:45,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:20:57,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:21:01,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:21:16,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:21:34,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:21:42,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:21:49,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:21:51,VEH004,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:21:57,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:22:08,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:22:11,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:22:22,VEH004,P0171,System Too Lean,Medium
+2025-10-01 13:22:23,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:22:33,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:23:18,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:23:35,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:24:00,VEH001,P0171,System Too Lean,Medium
+2025-10-01 13:24:09,VEH001,P0171,System Too Lean,Medium
+2025-10-01 13:24:12,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:24:13,VEH001,P0171,System Too Lean,Medium
+2025-10-01 13:24:14,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:24:33,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:24:41,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:24:42,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:24:58,VEH001,P0171,System Too Lean,Medium
+2025-10-01 13:25:10,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:25:12,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:25:18,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:25:35,VEH002,P0171,System Too Lean,Medium
+2025-10-01 13:25:36,VEH001,P0171,System Too Lean,Medium
+2025-10-01 13:25:53,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:25:59,VEH002,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:26:03,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:26:11,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:26:38,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:26:50,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:27:15,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:27:19,VEH002,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:27:23,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:27:30,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:27:31,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:27:42,VEH002,P0171,System Too Lean,Medium
+2025-10-01 13:27:43,VEH001,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:27:50,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:28:09,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:28:11,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:28:17,VEH004,P0171,System Too Lean,Medium
+2025-10-01 13:28:23,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:28:29,VEH004,P0171,System Too Lean,Medium
+2025-10-01 13:28:41,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:28:43,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:28:47,VEH001,P0171,System Too Lean,Medium
+2025-10-01 13:28:52,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:29:15,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:29:21,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:29:22,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:29:47,VEH002,P0171,System Too Lean,Medium
+2025-10-01 13:29:53,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:30:04,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:30:22,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:30:23,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:30:29,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:30:42,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:30:48,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:30:55,VEH002,P0171,System Too Lean,Medium
+2025-10-01 13:30:59,VEH003,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:31:13,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:31:28,VEH003,P0171,System Too Lean,Medium
+2025-10-01 13:31:33,VEH004,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:31:34,VEH002,P0171,System Too Lean,Medium
+2025-10-01 13:31:51,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:31:53,VEH004,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:32:03,VEH002,P0135,O2 Sensor Heater Circuit,Medium
+2025-10-01 13:32:12,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:32:15,VEH004,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:32:17,VEH001,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:32:18,VEH001,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:32:29,VEH002,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:32:33,VEH003,P0128,Coolant Thermostat Malfunction,Low
+2025-10-01 13:32:50,VEH001,P0171,System Too Lean,Medium
+2025-10-01 13:32:54,VEH001,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:32:56,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:32:59,VEH003,P0420,Catalyst System Efficiency Below Threshold,Low
+2025-10-01 13:33:06,VEH003,P0301,Cylinder 1 Misfire Detected,High
+2025-10-01 13:33:18,VEH003,P0128,Coolant Thermostat Malfunction,Low

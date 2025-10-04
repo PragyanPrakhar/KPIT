@@ -1,0 +1,16 @@
+[
+    { "id": "S001", "name": "Alice", "age": 20, "major": "Computer Science" },
+    {
+        "id": "S002",
+        "name": "Bob",
+        "age": 22,
+        "major": "Mechanical Engineering"
+    },
+    {
+        "id": "S003",
+        "name": "Charlie",
+        "age": 21,
+        "major": "Electrical Engineering"
+    },
+    { "id": "S004", "name": "Diana", "age": 23, "major": "Civil Engineering" }
+]

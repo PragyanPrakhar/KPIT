@@ -1,0 +1,4 @@
+V001;Sedan|Toyota-2020/50000:True;Engine:Petrol,150
+V002,SUV,Honda,2022,25000,True,Engine:Diesel,180
+EV001|Hatchback|Tesla|2023|15000|True|Battery:75|Charging:1.5|Engine:Electric,300
+V003;Truck|Ford-2018/80000:False;Engine:Diesel,250
