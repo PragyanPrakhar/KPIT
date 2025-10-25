@@ -1,0 +1,62 @@
+[
+  {
+    "review_id": 1,
+    "product": "Wireless Earbuds",
+    "review_text": "I loved the sound quality!!! Totally worth the money :)",
+    "true_sentiment": "positive"
+  },
+  {
+    "review_id": 2,
+    "product": "Bluetooth Speaker",
+    "review_text": "The battery life is terrible... not recommended :(",
+    "true_sentiment": "negative"
+  },
+  {
+    "review_id": 3,
+    "product": "Smartwatch",
+    "review_text": "Average performance; works fine but the strap broke within a week.",
+    "true_sentiment": "negative"
+  },
+  {
+    "review_id": 4,
+    "product": "Phone Case",
+    "review_text": "Perfect fit for my phone! Feels premium and looks awesome.",
+    "true_sentiment": "positive"
+  },
+  {
+    "review_id": 5,
+    "product": "Laptop Stand",
+    "review_text": "Build quality is great, but delivery was late!!!",
+    "true_sentiment": "neutral"
+  },
+  {
+    "review_id": 6,
+    "product": "Wireless Mouse",
+    "review_text": "Extremely smooth and responsive. Works like a charm.",
+    "true_sentiment": "positive"
+  },
+  {
+    "review_id": 7,
+    "product": "Keyboard",
+    "review_text": "Horrible typing experience... keys got stuck after 2 days.",
+    "true_sentiment": "negative"
+  },
+  {
+    "review_id": 8,
+    "product": "Monitor",
+    "review_text": "Crisp display but buttons are hard to press!!!",
+    "true_sentiment": "neutral"
+  },
+  {
+    "review_id": 9,
+    "product": "Smartphone",
+    "review_text": "Excellent performance and camera, but battery drains fast.",
+    "true_sentiment": "positive"
+  },
+  {
+    "review_id": 10,
+    "product": "Charger",
+    "review_text": "Didn't work at all!!! Total waste of money.",
+    "true_sentiment": "negative"
+  }
+]
